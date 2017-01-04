@@ -1,0 +1,25 @@
+body {
+    background-image: url("../img/resort5.jpeg");
+    background-repeat: repeat-x;
+    background-size: 200%;
+    color: white;
+
+}
+
+img {
+  opacity: 0.2;
+}
+
+h1{
+  font-size: 70px;
+
+
+}
+
+p{
+  font-size: 50px;
+}
+
+li{
+  font-size:30px;
+}
